@@ -1,0 +1,71 @@
+body {
+  margin: 10px;
+  padding: 0px;
+  background-color: #ffffff;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: 0.7em;
+  color: #666666;
+  background-image: url(../images/bakgrnd2.jpg);
+}
+h1 {
+  margin: 0px;
+  padding: 0px;
+  font-size: 1.8em;
+  text-align: center;
+  color: #333333;
+}
+h2 {
+  margin: 10px;
+  padding: 0px;
+  font-size: 1.5em;
+  color: #333333;
+}
+h3 {
+  font-size: 1.1em;
+  color: #333333;
+}
+
+#DivCabecera table {
+  border: 1px solid #666666;
+  margin: 0px 0px 10px;
+  background-color: #f6f6f6;
+}
+
+#TdMenu {
+  background-color: #fafafa;
+}
+
+#TdContenido {
+background-color: white
+}
+
+#DivContenido td {
+  border: 1px solid #666666;
+}
+
+#DivContenido a {
+  color: #666666;
+  text-decoration: none;
+  font-weight: bold;
+}
+#DivContenido a:hover {
+  color: #666666;
+  text-decoration: underline;
+}
+#TableClasificacion {
+  font-size: 0.9em;
+}
+#DivPie table {
+  border: 1px solid #666666;
+  margin: 10px 0px 0px;
+  background-color: #f6f6f6;
+}
+#DivPie a {
+  color: #666666;
+  text-decoration: none;
+}
+#DivPie a:hover {
+  color: #666666;
+  text-decoration: underline;
+}
+
