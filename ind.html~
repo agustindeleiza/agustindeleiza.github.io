@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Club de Ajedrez Agustin de Leiza</title>
+    <link rel="shortcut icon" href="images/favico.ico">
+    <link rel="stylesheet" href="css/estilo.css">
+    <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-33370838-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+  </script>
+  </head>
+  <body>
+    <header itemscope="itemscope" itemtype="http://schema.org/Organization">
+      <table style="width: 100%;" border="3 solid #333333">
+        <tbody>
+          <tr>
+            <td style="width: 100%; background-color: #a8a8a8;">
+              <h1 itemprop="name" class="titulo">Club de Ajedrez Agustin de
+                Leiza </h1>
+              <h1 itemprop="name" class="titulo">Agustin de Leiza Xake Elkartea</h1>
+              <h1> </h1>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </header>
+    <br>
+    <main class="main">
+      <nav class="nav">
+        <p> &raquo; <a href="indice.html">Inicio</a><br>
+          &raquo; <a href="socios.html">socios del club</a> <br>
+          &raquo; <a href="ctoequip.html">campeonato por equipos</a> <br>
+          &raquo; <a href="torneos.html">&uacute;ltimos campeonatos</a><br>
+        </p>
+        <p>&raquo; <a href="links.html">enlaces</a></p>
+      </nav>
+      <section itemscope="itemscope" itemtype="http://schema.org/PostalAddress"
+
+        class="section">
+        <h1>Resultados individuales</h1>
+        <p><a href="ind25.html">Temporada 2025</a></p>
+		  <p><a href="ind24.html">Temporada 2024</a></p>
+		  <p><a href="ind23.html">Temporada 2023</a></p>
+		<p><a href="ind22.html">Temporada 2022</a></p>
+		<p><a href="ind20.html">Temporada 2020</a></p>
+		<p><a href="ind19.html">Temporada 2019</a></p>
+        <p><a href="ind18_primera.html">Temporada 2018 (Preferente)</a></p>
+        <p><a href="ind18_liga%20vasca.html">Temporada 2019 (Liga Vasca)</a></p>
+        <p><a href="ind17_primera.html">Temporada 2017 (Preferente)</a></p>
+        <p><a href="ind17.html">Temporada 2017 (Liga Vasca)</a></p>
+        <p><a href="ind16_primera.html">Temporada 2016 (Primera)<br>
+          </a></p>
+        <p><a href="ind16.html">Temporada 2016 (Liga Vasca)</a></p>
+        <p><a href="ind15primera.html">Temporada 2015 (Primera)</a></p>
+        <p><a href="ind15.html">Temporada 2015 (Liga Vasca)</a><br>
+        </p>
+        <p><a href="ind14andoain.html">Temporada 2014 (Primera)<br>
+          </a></p>
+        <p><a href="ind14urnieta.html">Temporada 2014 (Liga Vasca)<br>
+          </a></p>
+        <p><a href="ind13.html">Temporada 2013 (Primera)<br>
+          </a></p>
+        <p><a href="ind13urnieta.html">Temporada 2013 (Preferente)<br>
+          </a></p>
+        <p><a href="ind12.html">Temporada 2012 (Primera)</a></p>
+        <p><a href="ind12vasca.html">Temporada 2012 (Liga Vasca)</a></p>
+        <p><a href="ind11.html">Temporada 2011 (Primera)</a></p>
+        <p><a href="ind11preferente.html">Temporada 2011 (Preferente)</a></p>
+        <p><a href="ind10.html">Temporada 2010 (Primera)</a></p>
+        <p><a href="ind10preferente.html">Temporada 2010 (Preferente)</a></p>
+        <p><a href="ind09.html">Temporada 2009 (Guip&uacute;zcoa)</a></p>
+        <p><a href="ind09vasca.html">Temporada 2009 (Vasca)</a></p>
+        <p><a href="ind08.htm">Temporada 2008 (Guip&uacute;zcoa)</a></p>
+        <p><a href="ind08vasca.htm">Temporada 2008 (Vasca)</a></p>
+        <p><a href="ind07.htm">Temporada 2007</a></p>
+        <p><a href="ind06.htm">Temporada 2006 (Guip&uacute;zcoa)</a> </p>
+        <p><a href="ind06vasca.htm">Temporada 2006 (Vasca) </a></p>
+        <p><a href="indiv.htm">Temporada 2005 (Guip&uacute;zcoa)</a></p>
+        <p><a href="ind05vasca.htm">Temporada 2005 (Vasca) </a> </p>
+        <p><a href="indiv04.htm">Temporada 2004 (Guip&uacute;zcoa)</a></p>
+        <p><a href="indiv04vasca.htm">Temporada 2004 (Vasca)</a></p>
+        <p><a href="indiv03.htm">Temporada 2003 (Guip&uacute;zcoa)</a></p>
+        <p><a href="indiv03vasca.htm">Temporada 2003 (Vasca)</a></p>
+        <p><a href="ind02prim.htm">Temporada 2002 (Guip&uacute;zcoa)</a></p>
+        <p><a href="ind02lv.htm">Temporada 2002 (Vasca)</a></p>
+        <p><a href="ind01.htm">Temporada 2001</a></p>
+        <p><a href="ind00pref.htm">Temporada 2000 (Preferente)</a></p>
+        <p><a href="ind00prim.htm">Temporada 2000 (Primera)</a></p>
+        <p><a href="ind99pref.htm">Temporada 1999 (Preferente)</a></p>
+        <p><a href="ind99seg.htm">Temporada 1999 (Segunda)</a></p>
+        <p><a href="ind98pref.htm">Temporada 1998 (Preferente)</a></p>
+        <p><a href="ind98seg.htm">Temporada 1998 (Segunda) </a></p>
+        <p><a href="ind97pref.htm">Temporada 1997 (Preferente)</a> </p>
+        <p><a href="ind97seg.htm">Temporada 1997 (Segunda) </a></p>
+        <p><a href="ind96.htm">Temporada 1996 (Preferente) </a></p>
+        <p><a href="ind95.htm">Temporada 1995 (Preferente) </a></p>
+        <br>
+        <br>
+      </section>
+    </main>
+    <p><br>
+    </p>
+    <footer itemscope="itemscope" itemtype="http://schema.org/Organization" class="footer">
+      <table style="width: 100%; background-color: #a8a8a8" border="0" cellpadding="15"
+
+        cellspacing="0">
+        <tbody>
+          <tr>
+            <td><a href="ind_e.html">euskera</a></td>
+            <td align="right"><a href="http://agustindeleiza.blogspot.com" itemprop="url">Blog</a>
+              - <a href="contacto.html">contacto</a> - <a href="localizacion.html">localizaci&oacute;n</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </footer>
+  </body>
+</html>

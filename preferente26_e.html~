@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta content="text/html; charset=windows-1252" http-equiv="content-type">
-    <title>Club de Ajedrez Agustin de Leiza</title>
+    <title>Agustin de Leitza Xake Elkartea</title>
     <link rel="icon" type="image/x-icon" href="images/favico.ico">
     <link rel="stylesheet" href="css/estilo.css">
     <script type="text/javascript">
@@ -15,7 +15,7 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
   </script>
-  </head>
+    </head>
   <body>
     <header itemscope="itemscope" itemtype="http://schema.org/Organization">
       <table style="width: 100%;" border="3 solid #333333">
@@ -24,8 +24,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
             <td style="width: 100%; background-color: #a8a8a8;">
               <h1 itemprop="name" class="titulo">Club de Ajedrez Agustin de
                 Leiza </h1>
-              <h1 itemprop="name" ;="" class="titulo">Agustin de Leiza Xake
-                Elkartea</h1>
+              <h1 itemprop="name" class="titulo">Agustin de Leiza Xake Elkartea</h1>
               <h1> </h1>
             </td>
           </tr>
@@ -35,30 +34,20 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     <br>
     <main class="main">
       <nav class="nav">
-        <p> &raquo; Inicio<br>
-          &raquo; <a href="socios.html">socios del club</a> <br>
-          &raquo; <a href="ctoequip.html">campeonato por equipos</a> <br>
-          &raquo; <a href="torneos.html">&uacute;ltimos campeonatos</a><br>
-          
-        <p>&raquo; <a href="links.html">enlaces</a></p>
-        <br>
-        <div align="center">
-			<img alt="Cartel clases" height="20%" longdesc="Cartel clases" src="images/Cartel%20clases.jpg" width="90%"><br>
-        </div>
-        
+        <p> &raquo; <a href="index_e.html">hasiera</a><br>
+          &raquo; <a href="socios_e.html">elkarteko bazkideak</a> <br>
+          &raquo; <a href="ctoequip_e.html">taldekako txapelketa</a> <br>
+          &raquo; <a href="torneos_e.html">azken txapelketak</a><br>
+        </p>
+        <p>&raquo; <a href="links_e.html">loturak</a></p>
       </nav>
       <section class="section">
-        <h1>Contenidos</h1>
-        <br>
-        
-        <h2><a href="ctoequipos26.html">Cto de Gipuzkoa por Equipos 2026</a></h2>
-        Nota: Si est&aacute;is mirando p&aacute;ginas antiguas y no pod&eacute;is volver a la p&aacute;gina
-        principal ser&aacute; porque el link est&aacute; roto, se arregla a&ntilde;adiendo una l al
-        final de la direcci&oacute;n, por ejemplo
-        http://agustindeleiza.github.io/ctoequip.htm ahora es
-        http://agustindeleiza.github.io/ctoequip.html<br>
-      </section>
-    </main>
+        <h1 style="text-align: center;">Taldekako txapelketa 2026</h1>
+           <div align="center">
+           <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWqmkys6WIqPuKNYberjxba1hOMuKI85AjCQ1icBDpwREWrRiI64JLEaIQ3PDwbGNUb-IVDHf2KdCW/pubhtml?gid=548760670&amp;single=true&amp;widget=true&amp;headers=false"></iframe> 
+          <p>&nbsp;</p><br>
+          </div></section>
+</main>
     <p><br>
     </p>
     <footer itemscope="itemscope" itemtype="http://schema.org/Organization" class="footer">
@@ -67,9 +56,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         cellspacing="0">
         <tbody>
           <tr>
-            <td><a href="index_e.html">euskera</a></td>
+            <td><a href="preferente26.html">castellano</a></td>
             <td align="right"><a href="http://agustindeleiza.blogspot.com" itemprop="url">Blog</a>
-              - <a href="contacto.html">contacto</a> - <a href="localizacion.html">localizaci&oacute;n</a></td>
+              - <a href="contacto_e.html">harreman</a> - <a href="localizacion_e.html">kokapena</a></td>
           </tr>
         </tbody>
       </table>

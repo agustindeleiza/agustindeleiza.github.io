@@ -3,7 +3,7 @@
   <head>
     <meta content="text/html; charset=windows-1252" http-equiv="content-type">
     <title>Club de Ajedrez Agustin de Leiza</title>
-    <link rel="icon" type="image/x-icon" href="images/favico.ico">
+    <link rel="shortcut icon" href="images/favico.ico">
     <link rel="stylesheet" href="css/estilo.css">
     <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -24,8 +24,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
             <td style="width: 100%; background-color: #a8a8a8;">
               <h1 itemprop="name" class="titulo">Club de Ajedrez Agustin de
                 Leiza </h1>
-              <h1 itemprop="name" ;="" class="titulo">Agustin de Leiza Xake
-                Elkartea</h1>
+              <h1 itemprop="name" class="titulo">Agustin de Leiza Xake Elkartea</h1>
               <h1> </h1>
             </td>
           </tr>
@@ -35,28 +34,26 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     <br>
     <main class="main">
       <nav class="nav">
-        <p> &raquo; Inicio<br>
+        <p> &raquo; <a href="indice.html">Inicio</a><br>
           &raquo; <a href="socios.html">socios del club</a> <br>
           &raquo; <a href="ctoequip.html">campeonato por equipos</a> <br>
           &raquo; <a href="torneos.html">&uacute;ltimos campeonatos</a><br>
-          
-        <p>&raquo; <a href="links.html">enlaces</a></p>
-        <br>
-        <div align="center">
-			<img alt="Cartel clases" height="20%" longdesc="Cartel clases" src="images/Cartel%20clases.jpg" width="90%"><br>
-        </div>
-        
+        </p>
+        <p>&raquo; enlaces</p>
       </nav>
-      <section class="section">
-        <h1>Contenidos</h1>
+      <section itemscope="itemscope" itemtype="http://schema.org/PostalAddress"
+
+        class="section"><br>
+        <div style="text-align: center"> 
+			<br> <h1>Resultados individuales 2025</h1><br>
+			<div align="center">
+			<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGEntUryxmIaIzk643MnL3n0bwxGTT47kf4VmuRjhlJWz3jfSb-DPEMme_G_aXVCWwJMw5E7heW8Da/pubhtml?gid=2088366722&single=true" width="90%" height="500"></iframe></div>
+          <br>
+          	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGEntUryxmIaIzk643MnL3n0bwxGTT47kf4VmuRjhlJWz3jfSb-DPEMme_G_aXVCWwJMw5E7heW8Da/pubhtml?gid=1003543674&single=true" width="90%" height="500"></iframe> 
+                    <br>
+          	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGEntUryxmIaIzk643MnL3n0bwxGTT47kf4VmuRjhlJWz3jfSb-DPEMme_G_aXVCWwJMw5E7heW8Da/pubhtml?gid=1281166781&single=true" width="90%" height="500"></iframe> 
+          </div>
         <br>
-        
-        <h2><a href="ctoequipos26.html">Cto de Gipuzkoa por Equipos 2026</a></h2>
-        Nota: Si est&aacute;is mirando p&aacute;ginas antiguas y no pod&eacute;is volver a la p&aacute;gina
-        principal ser&aacute; porque el link est&aacute; roto, se arregla a&ntilde;adiendo una l al
-        final de la direcci&oacute;n, por ejemplo
-        http://agustindeleiza.github.io/ctoequip.htm ahora es
-        http://agustindeleiza.github.io/ctoequip.html<br>
       </section>
     </main>
     <p><br>
@@ -67,12 +64,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         cellspacing="0">
         <tbody>
           <tr>
-            <td><a href="index_e.html">euskera</a></td>
+            <td><a href="ind25_e.html">euskera</a></td>
             <td align="right"><a href="http://agustindeleiza.blogspot.com" itemprop="url">Blog</a>
               - <a href="contacto.html">contacto</a> - <a href="localizacion.html">localizaci&oacute;n</a></td>
           </tr>
         </tbody>
       </table>
     </footer>
+    
   </body>
 </html>
